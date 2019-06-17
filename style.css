@@ -2,7 +2,13 @@
 .container__title{
     text-decoration: none;
     color: black;
-
+}
+.container__title:hover{
+    background-color: lightblue;
+    border-bottom: 1px dashed black;
+}
+.container__title__transition{
+    transition: 2s;
 }
 .container{
     max-width: 1180px;
