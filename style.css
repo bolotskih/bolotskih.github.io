@@ -39,6 +39,6 @@ main{
 .site{
     background:#45B7E3;
     color: white;
-    margin: 0 -1500 0 auto;
+    text-align: right;
     padding: 20px;
 }
