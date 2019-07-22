@@ -1,1 +1,1 @@
-gvar o="Hello Evgeny",l=prompt("Сколько было яблок у Мазая?",2),e=l*l;console.log(o),console.log("string"),console.log(123),console.log("number"),console.log(!1),console.log(typeof!1),console.log("undefined"),alert(l),console.log(typeof l),alert(e),console.log(typeof e);
+var o="Hello Evgeny",l=prompt("Сколько было яблок у Мазая?",2),e=l*l;console.log(o),console.log("string"),console.log(123),console.log("number"),console.log(!1),console.log(typeof!1),console.log("undefined"),alert(l),console.log(typeof l),alert(e),console.log(typeof e);
