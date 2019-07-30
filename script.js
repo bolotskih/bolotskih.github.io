@@ -1,1 +1,0 @@
-var e,o=prompt("введите число","1");if((e=prompt("введите число","2"))<o)var l=o;else var l=e;if(alert(l),(o=prompt("введите букву ","a"))<(e=prompt("введите букву ","b")))l=o;else l=e;alert(l);console.log('""< 3 так как пустая строка это false ,а число 3 это true'),console.log("3<10 по логике"),console.log("false < true по логике js");
